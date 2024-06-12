@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-    <h1 class="text-center my-4">Lista Viaggi in treno :</h1>
+    <h1 class="text-center my-4">Lista Viaggi in treno in partenza oggi :</h1>
     {{-- Tabella viaggio --}}
     <table class="table">
         <thead>
